@@ -1,1 +1,2 @@
-# NewsApp
+# DailyScope - NewsApp Project
+Developed a dynamic news web application using React.js and News API to provide real-time global news across multiple categories, including sports, space, general, politics, health, and more. Implemented a responsive and user-friendly interface to ensure seamless browsing and access to the latest updates. The application efficiently fetches and displays news articles from external sources, enhancing user engagement and information accessibility.
